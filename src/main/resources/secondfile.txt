@@ -1,0 +1,133 @@
+
+
+Analyst Note 1. Company’s Description, Demand, and Costs
+Tesla, Inc.
+
+Company Description
+
+Tesla, Inc., formerly known as Tesla Motors, Inc. (July 2003-February 2017) is an American founded company, with headquarters in Austin, Texas, led by Owner/CEO Elon Musk. Tesla specializes in production of electric vehicles (EV), but also has ties in fields such as artificial intelligence and clean energy. Most notably, Tesla produces fully electric cars, but most recently released an electric  semi-truck, and has plans to release their own version of a pickup truck, known as the cybertruck. According to Morningstar (2023), in 2022, Tesla reported a revenue of $81.46 billion, with a profit of $12.58  billion. Tesla leads the EV market by a landslide, sporting a market capitalization of $355.90 billion, which is 18 times higher than their closest competitor according to Arrieche (2022). Competitors for the EV market include, but are not limited to, Li Auto, NIO, Rivian, and Lucid Motors.
+
+Production Processes, Inputs, and Costs
+
+As one of the largest international companies, Tesla cannot sustain production from a single factory, or even from a single country. The required materials for a Tesla vehicle are not as simple as some other cars may be due to their unique features, such as the large battery required, and other components unique to EV manufacturing. Currently, there are four car assembling factories in three countries. Austin, Texas and Fremont, California host the two on American soil, while Shanghai in China and Berlin in Germany host the production for Asia and Europe, respectively. Along with these, factories in Nevada and New York specialize in production of components, batteries, and vehicle framework. Though unheard of for most other companies, Elon Musk has said “Tesla does not advertise or pay for endorsements. Instead, we use that money to make the product great.” (Lambert, 2022) Recently, some adverts for Tesla have started arising, as Musk attempts to combat a perceived media bias against the company. Inevitably, the costs of Tesla are going to be quite high as a large producer. Fixed costs for Tesla include six giga-factories, salaries of employees, costs of utilities, taxes, and other licenses required to produce vehicles. As for variable costs, consider the hourly rate of non-salaried employees, production of vehicle components, battery production, vehicle construction, and the prices of raw materials necessary for producing each piece.
+
+Over the course of the past five years, Tesla’s output has increased, along with the costs of production. According to Morningstar (2023), the costs of goods and services nearly doubled, from -$9.54 billion to -$17.49 billion. More recently, production continues to rise, with reported costs of -$40.22 billion in 2021, compared to -$60.6 billion in 2022. Operating expenses remained stagnant from 2017-2020 at around -$4 billion, before jumping to roughly -$7 billion in 2021, where they have remained since. Tesla showcases much higher variable costs compared to fixed costs in the last year, with a staggering difference between -$60.6 billion and -$7.02 billion in 2022.
+
+Costs of production for Tesla have increased along with demand and price of lithium, a key component of the batteries used in their vehicles. According to the report by Seth Goldstein on January 26th, 2023, “lithium contract prices will rise in 2023 – as spot prices average $70,000 per metric ton” (Goldstein 2023) However, as prices rise for lithium, other companies may struggle more to stay above the surface. Tesla’s vehicle production grew from just over 100,000 in 2017 to more than 1.3 million in 2022. Along with this, the average cost of goods has dropped from $84,000 to under $39,000, leaving consumers with much more affordable options. The reason for the dropping cost of goods is primarily due to Tesla’s research and development in lowering production costs, allowing for a lower profit margin so they can reach more customers.
+
+Changes in Firm’s Demand
+
+As more people vow to “go green”, the demand within the EV market is steadily increasing. Tesla, seated comfortably at the helm, is benefiting from this more than any other EV company. As development and research continues to happen, Tesla is able to increase production and lower sale prices, increasing the revenue for the company. Lowering prices appeals to the budget of consumers who may not have otherwise been able to afford the vehicles, fostering even more demand increases for the company. As prices decrease, the number of potential buyers increase, along with the preference for consumers to choose Tesla over another EV brand. Along with this, as Tesla continues to produce quality vehicles, the price of substitutes works in Tesla’s favor, with customers opting to purchase Teslas over similar alternatives, such as the Ford Mach-E. (Eckert, 2023)
+
+
+
+
+In reference to the above text, a simple representation of Tesla’s demand is illustrated. Shown by the black arrows, the entire curve shifts in the positive direction, outward from the origin. The initial demand is represented by the curve D0 and the new demand is represented by the curve D1.
+
+Though Tesla’s demand remains relatively constant, it shows tendencies of being more elastic than not. When prices rise slightly, effects are minimal. However, when income drops for consumers due to external factors, demand can be lowered quite significantly. Toward the end of 2022, concerns were raised regarding the dwindling demand for Tesla vehicles. Eckert (2023) describes Musk’s response to the lower demand; slashing prices by as much as 20% on some versions of the vehicle, spurring a new rush of purchasing Teslas over other EV alternatives. Due to Tesla’s demand being more elastic, the lowering of prices actually increased revenue for the short term. Once demand rose, revenue continued to grow even higher.
+
+
+
+
+Pictured to the left is a model of Musk’s response to lower demand curves, and its corresponding effect. Initial demand is represented by D0, on which current prices were at point A. Musk responded by shifting to point B, increasing revenue, due to elasticity, and spurring a general demand increase, represented by the green arrows. The new curve is represented as D1.
+
+
+
+
+
+As Tesla’s demand continues to rise, revenue continues to rise as well. Over the course of the past six years, Tesla’s revenue has grown steadily with reported figures of $11.76, $21.46, $24.59, $31.54, $53.82, and $81.56 billion in 2022, according to Morningstar (2023). Tesla's largest jump in revenue came between 2021 and 2022, when it grew by nearly $28 billion. Production increased throughout the Covid-19 pandemic, which explains the larger increases in revenue during the respective time period.
+
+
+
+
+
+
+
+
+References
+
+Tesla. (n.d) Manufacturing. https://www.tesla.com/en_eu/manufacturing
+Olihga, Luc (2022, December 18). Tesla’s New Factory Location Revealed TheStreet
+https://www.thestreet.com/technology/teslas-new-factory-location-revealed#:~:text=The%20company%20already%20has%20four,per%20year%2C%20according%20to%20Tesla.
+Bobrowksy, Meghan (2022, October 2). Tesla Deliveries Bounce Back to Record, Though Dented by Distribution Delays The Wall Street Journal
+https://www.wsj.com/articles/tesla-vehicle-deliveries-rebound-to-record-after-china-shutdown-11664727372?mod=article_inline
+Elliott, Rebecca (2023, January 2). Elon Musk’s Tesla Comes Up Short of 2022 Delivery Target as Growth Slows The Wall Street Journal
+https://www.wsj.com/articles/elon-musks-tesla-comes-up-short-of-2022-delivery-target-as-growth-slows-11672680081
+Arrieche, Alejandro (2022, December 19). Biggest electric vehicle companies: Can Tesla keep EV top dog crown? Capital.com
+https://capital.com/top-20-global-electric-vehicle-companies-ranking-tesla-ev-top-dog#:~:text=Tesla%20remains%20the%20leader%20in,during%20the%202022%20fiscal%20year
+Elliott, Rebecca (2021, March 11). Tesla Faces New Reality of Tough Competition The Wall Street Journal
+https://www.wsj.com/articles/tesla-faces-new-reality-of-tough-competition-11615478406
+Lambert, Fred (2022, June 22). Elon Musk considers Tesla ads to counter media bias Electrek
+https://electrek.co/2022/06/22/elon-musk-tesla-advertise-counter-media-bias/
+Lambert, Fred (2023, January 31). Tesla is going to build a factory in Mexico City, says government official Electrek
+https://electrek.co/2023/01/31/tesla-build-factory-mexico-city-gov-official/
+Eckert, Nora (2023, January 22). Tesla’s Price Cuts Are Roiling the Car Market The Wall Street Journal
+https://www.wsj.com/articles/teslas-price-cuts-are-roiling-the-car-market-11674327793
+Kolodny, Lora (2023, January 2). Tesla reports 1.31 million deliveries in 2022, growth of 40% over last year CNBC
+https://www.cnbc.com/2023/01/02/tesla-tsla-q4-2022-vehicle-delivery-and-production-numbers.html#:~:text=Tesla%20just%20reported%202022%20year,to%20around%201.31%20million%20vehicles.
+Morningstar (2023). Tesla, Inc. (Morningstar Report)
+Goldstein, Seth (2023, January 26) Keeping Tesla’s $220 FVE as Higher Near-Term Deliveries Offset by Lower Profits; Shares Undervalued
+
+Appendix
+
+
+
+Morningstar annual income statement over the last 5 years.
+
+Analyst Note 3. Policy Analysis
+Making Our Homes More Efficient: Clean Energy Tax Credits for Consumers
+
+Market and policy
+
+The market I have chosen for this analyst note is the electric vehicle market, which has been affected by a policy that offers a tax credit to those who purchase electric vehicles and make other strides toward renewable energy (e.g. solar panels). Though this policy is not new, there have been recent alterations to the policy, making it both more flexible and more difficult to receive at the same time.
+
+Link: https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after
+
+Policy: Altered qualifications for the $7,500 tax credit toward EV purchases
+
+The policy at hand will go into effect on April 18th, 2023, though the previous subsidy was altered in December 2022. The policies are in response to a law enacted in August 2022 in an attempt to encourage buyers to invest in electric vehicles and other renewable energy sources such as solar panels, more efficient fuel pumps, and wind energy according to the US Department of Energy (2023). This law was passed by Congress at the federal level, with hopes of creating a nationwide investing spree to foster economic growth in the renewable energy market along with a weakened demand for opposing markets such as crude oil.
+
+As seen in the article listed above, there is a list of subsidies and reductions made available to consumers who choose to make improvements that would make their current homes more energy efficient. Most notably, the electric vehicle market is affected by this policy due to the $7,500 tax credit toward the purchase of an EV. Initially, the policy was far less strict with its regulations as to which vehicles would qualify for the subsidy, but the recent alterations have led to less availability. In alignment with the goal of renewable energy, congress has altered the initial law to restrict the location of production of qualified vehicles. As stated by Ebeling (2023), the changes required final assembly in North America for vehicles purchased after Aug. 16, 2022, unless the buyers entered a binding contract before Aug. 16 and took delivery from Aug. 16 through Dec. 31. As one of the largest producers of goods worldwide, China plays a large role in the production of the batteries inside of the vehicles and portions of the external framing of the vehicle. Due to their often large-scale production, their pollution output is also high; ironically, this is the exact issue that the law is attempting to combat. For this reason, restrictions have been placed to have the cars at minimal, finally assembled within the states, and also as stated by the IRS (2023), the car must be bought for personal use, not resale, for primary use inside of the United States. This policy affects EV producers by placing restrictions on where manufacturing can take place, but also on consumers who may not qualify for the credit any longer, as many of the vehicles that may have qualified in the past will no longer be acceptable.
+
+Goals of the policy
+
+As touched on previously, the policy aims to address the negative externalities of non-renewable energy. Negative externalities include pollution from carbon emissions, often from the burning of fossil fuels for means of powering vehicles. By providing tax incentives in the form of subsidies, Congress is encouraging investment into renewable energy sources. Though the recent alterations may seem counterintuitive, the reasoning behind it is because of the issues with production in China, along with the footprint left by transportation.
+
+Changes in surplus:
+Consumer (+): B+C ⇒ C+D
+Producer (+): A+B ⇒ A+B+E
+Total(+): A+B+D ⇒ A+B+C+D+E
+Deadweight Loss(-): F+G⇒0
+
+
+
+
+
+
+
+
+
+
+
+
+
+As seen in the graphs above, before the subsidies were in place, the market was not efficient. The deadweight loss, as shown in the graph on the left, was quite significant before the subsidies were imposed. The imposed laws benefited the entire market, as the consumer and producer surplus and the deadweight loss is eliminated. In this scenario, the effect of the law shows not only economic rebounds but also a positive effect on the world, as there will be fewer negative externalities through emissions from vehicles. Though the alteration of the law may make it harder to be eligible for the tax credit, it will decrease the emissions directly by eliminating the environmental costs of importing vehicle parts and batteries into the states for use.
+
+
+
+
+References
+
+IRS (2023, April 4). Inflation Reduction Act of 2022 (IRS Official Page)
+	https://www.irs.gov/inflation-reduction-act-of-2022
+
+US Department of Energy (2022, December 21). Making Our Homes More Efficient: Clean Energy Tax Credits for Consumers Energy.gov
+https://www.energy.gov/policy/articles/making-our-homes-more-efficient-clean-energy-tax-credits-consumers
+
+IRS (2023, March 31). Credits for New Clean Vehicles Purchased in 2023 or After (IRS Official Page)
+https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after
+
+Ebeling, Ashlea (2023, March 31). New Electric-Vehicle and Home-Energy Tax Incentives The Wall Street Journal
+https://www.wsj.com/articles/electric-vehicle-tax-credits-energy-dbb32864?mod=Searchresults_pos6&page=1
+
+
